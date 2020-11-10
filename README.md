@@ -40,7 +40,7 @@ This project combines **YOLOv2**([reference](https://arxiv.org/abs/1506.02640)) 
    - `export LD_LIBRARY_PATH=$LD_LIBRARY_PATH:/usr/local/cuda-10.1/lib64`
    - `export LIBRARY_PATH=$LIBRARY_PATH:/usr/local/cuda-10.1/lib64`
 10. Return to root folder and run `yolo_seqnms.py` to generate output images in `video/output`:
-   - `python yolo_seqnms.py`
+    - `python yolo_seqnms.py`
 11. If you want to reconstruct a video from these output images, you can go to the video folder and run `img2video.py`:
     - `python img2video.py -i output`
 
