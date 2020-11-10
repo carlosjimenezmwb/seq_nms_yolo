@@ -49,3 +49,5 @@ And you will see detection results in `video/output`
 ## Reference
 
 This project copies lots of code from [darknet](https://github.com/pjreddie/darknet) , [Seq-NMS](https://github.com/lrghust/Seq-NMS) and  [models](https://github.com/tensorflow/models).
+
+Main reference: https://github.com/melodiepupu/seq_nms_yolo. The purpose of this project was to create easy-to-understand instructions to facilitate accessibility.
